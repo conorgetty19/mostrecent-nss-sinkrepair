@@ -1,0 +1,50 @@
+.field {
+    display: flex;
+    flex-direction: column;
+}
+
+.orderForm {
+    width: 650px;
+}
+
+label {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+button {
+    background-color: #464ea0;
+    color: whitesmoke;
+    padding: 7px;
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+body {
+    margin-left: 90px;
+}
+
+.serviceForm {
+    width: 650px;
+}
+
+.serviceRequests {
+    width: 650px;
+}
+
+.ServiceRequestsHeaders {
+    background-color: #6a7987;
+    width: 650px;
+    color: bisque;
+    display: flex;
+    justify-content:space-around;
+}
+
+.requestDescription {
+    width: 460px;
+}
+
+.serviceRequestListItem {
+    background-color: #ebeaea;
+    display: flex;
+}
